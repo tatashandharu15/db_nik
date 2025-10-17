@@ -1,0 +1,2972 @@
+[
+  {
+    "msisdn": "62895804146567",
+    "nik": "3209394212650001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-08-15"
+  },
+  {
+    "msisdn": "6285774819896",
+    "nik": "3173044702550004",
+    "provider": "INDOSAT",
+    "reg_date": "2019-05-15"
+  },
+  {
+    "msisdn": "6289602836473",
+    "nik": "3173044702550004",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-05-15"
+  },
+  {
+    "msisdn": "6289653482393",
+    "nik": "3329091003780012",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2017-10-31"
+  },
+  {
+    "msisdn": "6285721704979",
+    "nik": "3209310107530202",
+    "provider": "INDOSAT",
+    "reg_date": "2019-10-07"
+  },
+  {
+    "msisdn": "6285721704981",
+    "nik": "3209310107530202",
+    "provider": "INDOSAT",
+    "reg_date": "2019-10-08"
+  },
+  {
+    "msisdn": "6281804092000",
+    "nik": "3403073006770003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2017-11-11"
+  },
+  {
+    "msisdn": "6282241467100",
+    "nik": "3403073006770003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-26"
+  },
+  {
+    "msisdn": "6287734733090",
+    "nik": "3403073006770003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-07"
+  },
+  {
+    "msisdn": "6287838454152",
+    "nik": "3403073006770003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-11"
+  },
+  {
+    "msisdn": "6287838650092",
+    "nik": "3403073006770003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2017-11-11"
+  },
+  {
+    "msisdn": "6282117912190",
+    "nik": "3209402406770001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2020-01-08"
+  },
+  {
+    "msisdn": "6282316708253",
+    "nik": "3209402406770001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-11-03"
+  },
+  {
+    "msisdn": "6282316987971",
+    "nik": "3209402406770001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-11-03"
+  },
+  {
+    "msisdn": "6285324882965",
+    "nik": "3209402406770001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-21"
+  },
+  {
+    "msisdn": "6281320705556",
+    "nik": "3209396005530001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-17"
+  },
+  {
+    "msisdn": "6281384936509",
+    "nik": "3209221204660006",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-07-07"
+  },
+  {
+    "msisdn": "6285320236650",
+    "nik": "3209221204660006",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-12"
+  },
+  {
+    "msisdn": "6283191195402",
+    "nik": "3209121406530006",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-10-29"
+  },
+  {
+    "msisdn": "6283805843714",
+    "nik": "3209121406530006",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-11-11"
+  },
+  {
+    "msisdn": "6283877160297",
+    "nik": "3209121406530006",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-11-15"
+  },
+  {
+    "msisdn": "6282152239104",
+    "nik": "6102084107760092",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-02-24"
+  },
+  {
+    "msisdn": "6282157340677",
+    "nik": "6102084107760092",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-11"
+  },
+  {
+    "msisdn": "6281259997799",
+    "nik": "3209141103600001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-01-04"
+  },
+  {
+    "msisdn": "6281270755579",
+    "nik": "3209141103600001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-09-11"
+  },
+  {
+    "msisdn": "6281280789518",
+    "nik": "3209141103600001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-22"
+  },
+  {
+    "msisdn": "6281321919498",
+    "nik": "3209141103600001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-10"
+  },
+  {
+    "msisdn": "6283825496773",
+    "nik": "3209141103600001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-10-23"
+  },
+  {
+    "msisdn": "6283826052451",
+    "nik": "3209141103600001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-10-23"
+  },
+  {
+    "msisdn": "6283826767568",
+    "nik": "3209141103600001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-10-23"
+  },
+  {
+    "msisdn": "6285252565668",
+    "nik": "3209141103600001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-10-06"
+  },
+  {
+    "msisdn": "6287881608989",
+    "nik": "3209141103600001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-04"
+  },
+  {
+    "msisdn": "6281324724962",
+    "nik": "3209120903710002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-09-14"
+  },
+  {
+    "msisdn": "6282119643389",
+    "nik": "3209120903710002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-28"
+  },
+  {
+    "msisdn": "6283190060997",
+    "nik": "3209120903710002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-10-24"
+  },
+  {
+    "msisdn": "6283803435359",
+    "nik": "3209120903710002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-06-30"
+  },
+  {
+    "msisdn": "6285703065430",
+    "nik": "3209120903710002",
+    "provider": "INDOSAT",
+    "reg_date": "2019-06-30"
+  },
+  {
+    "msisdn": "6285212521790",
+    "nik": "3604116106830004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-29"
+  },
+  {
+    "msisdn": "6285798958329",
+    "nik": "3209120903710002",
+    "provider": "INDOSAT",
+    "reg_date": "2019-04-24"
+  },
+  {
+    "msisdn": "6285951380838",
+    "nik": "3209120903710002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-07-13"
+  },
+  {
+    "msisdn": "6287889542452",
+    "nik": "3209120903710002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-10-06"
+  },
+  {
+    "msisdn": "6289608404297",
+    "nik": "3209120903710002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-06-04"
+  },
+  {
+    "msisdn": "6289619218192",
+    "nik": "3209120903710002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-01"
+  },
+  {
+    "msisdn": "628977078787",
+    "nik": "3209120903710002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-02-16"
+  },
+  {
+    "msisdn": "6281271919966",
+    "nik": "3171070411660004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-27"
+  },
+  {
+    "msisdn": "6281295914735",
+    "nik": "3209381608680004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-19"
+  },
+  {
+    "msisdn": "6282128217855",
+    "nik": "3209381608680004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-25"
+  },
+  {
+    "msisdn": "6282158019062",
+    "nik": "3209381608680004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-21"
+  },
+  {
+    "msisdn": "6285770592247",
+    "nik": "3209381608680004",
+    "provider": "INDOSAT",
+    "reg_date": "2019-02-14"
+  },
+  {
+    "msisdn": "6287847374937",
+    "nik": "3209381608680004",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-04-25"
+  },
+  {
+    "msisdn": "6281392409518",
+    "nik": "3310110202790003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2017-06-01"
+  },
+  {
+    "msisdn": "6282241043421",
+    "nik": "3310110202790003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-25"
+  },
+  {
+    "msisdn": "6282327197231",
+    "nik": "3310110202790003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-05-14"
+  },
+  {
+    "msisdn": "6285729020482",
+    "nik": "3310110202790003",
+    "provider": "INDOSAT",
+    "reg_date": "2018-02-10"
+  },
+  {
+    "msisdn": "6285943612941",
+    "nik": "3310110202790003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-07-03"
+  },
+  {
+    "msisdn": "6287736460823",
+    "nik": "3310110202790003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-12-03"
+  },
+  {
+    "msisdn": "6287824402014",
+    "nik": "3310110202790003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-10"
+  },
+  {
+    "msisdn": "62895355218541",
+    "nik": "3310110202790003",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-08-01"
+  },
+  {
+    "msisdn": "62895422603122",
+    "nik": "3310110202790003",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-09-08"
+  },
+  {
+    "msisdn": "62895605816726",
+    "nik": "3310110202790003",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-08-28"
+  },
+  {
+    "msisdn": "6282322404864",
+    "nik": "3329030612560001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-05-18"
+  },
+  {
+    "msisdn": "6281279600713",
+    "nik": "1871062807940003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-26"
+  },
+  {
+    "msisdn": "6282186497644",
+    "nik": "1871062807940003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-03-23"
+  },
+  {
+    "msisdn": "6285281570800",
+    "nik": "1871062807940003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-09-10"
+  },
+  {
+    "msisdn": "6285281570801",
+    "nik": "1871062807940003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-09-10"
+  },
+  {
+    "msisdn": "62895345501225",
+    "nik": "1871062807940003",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2017-12-15"
+  },
+  {
+    "msisdn": "62895640520857",
+    "nik": "1871062807940003",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-03-06"
+  },
+  {
+    "msisdn": "6289632119503",
+    "nik": "1871062807940003",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-10"
+  },
+  {
+    "msisdn": "6285624300612",
+    "nik": "3209394212650001",
+    "provider": "INDOSAT",
+    "reg_date": "2019-05-21"
+  },
+  {
+    "msisdn": "6289516914136",
+    "nik": "3209394212650001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-12-09"
+  },
+  {
+    "msisdn": "62895800787693",
+    "nik": "3209394212650001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-09-13"
+  },
+  {
+    "msisdn": "6285281469909",
+    "nik": "3604116106830004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-11-04"
+  },
+  {
+    "msisdn": "6287722431210",
+    "nik": "3604116106830004",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-04-17"
+  },
+  {
+    "msisdn": "6281717611536",
+    "nik": "3329042912760001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-01-31"
+  },
+  {
+    "msisdn": "6281918737406",
+    "nik": "3329042912760001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-11-10"
+  },
+  {
+    "msisdn": "6281930956353",
+    "nik": "3329042912760001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-09-07"
+  },
+  {
+    "msisdn": "6281930956380",
+    "nik": "3329042912760001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-07-19"
+  },
+  {
+    "msisdn": "6282322016487",
+    "nik": "3329042912760001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-19"
+  },
+  {
+    "msisdn": "6283144856156",
+    "nik": "3329042912760001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-09-23"
+  },
+  {
+    "msisdn": "6287820170457",
+    "nik": "3329042912760001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-12-13"
+  },
+  {
+    "msisdn": "6287832452074",
+    "nik": "3329042912760001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-10-04"
+  },
+  {
+    "msisdn": "628816516871",
+    "nik": "3329042912760001",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-11-04"
+  },
+  {
+    "msisdn": "6288225465852",
+    "nik": "3329042912760001",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-08-30"
+  },
+  {
+    "msisdn": "6288802919058",
+    "nik": "3329042912760001",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-12-11"
+  },
+  {
+    "msisdn": "6281902170572",
+    "nik": "3329083112550006",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-04-24"
+  },
+  {
+    "msisdn": "6287781244515",
+    "nik": "3329083112550006",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-07"
+  },
+  {
+    "msisdn": "62895379109174",
+    "nik": "3329083112550006",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-04-23"
+  },
+  {
+    "msisdn": "6282187100994",
+    "nik": "7371105209940004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-23"
+  },
+  {
+    "msisdn": "6285251274039",
+    "nik": "7371105209940004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-15"
+  },
+  {
+    "msisdn": "6285251274268",
+    "nik": "7371105209940004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-15"
+  },
+  {
+    "msisdn": "62895800458291",
+    "nik": "7371105209940004",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-08"
+  },
+  {
+    "msisdn": "6289602491846",
+    "nik": "7371105209940004",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-03"
+  },
+  {
+    "msisdn": "6289694852670",
+    "nik": "7371105209940004",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-08-31"
+  },
+  {
+    "msisdn": "6285783789577",
+    "nik": "1801047006720021",
+    "provider": "INDOSAT",
+    "reg_date": "2018-01-10"
+  },
+  {
+    "msisdn": "6281295176684",
+    "nik": "3317102704770004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-12-08"
+  },
+  {
+    "msisdn": "6281295176711",
+    "nik": "3317102704770004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-12-03"
+  },
+  {
+    "msisdn": "6282153001992",
+    "nik": "3317102704770004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-12-05"
+  },
+  {
+    "msisdn": "6282252448171",
+    "nik": "3317102704770004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2017-06-01"
+  },
+  {
+    "msisdn": "6283128673603",
+    "nik": "3317102704770004",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-06-02"
+  },
+  {
+    "msisdn": "6285394517710",
+    "nik": "3317102704770004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-05-08"
+  },
+  {
+    "msisdn": "6287848053140",
+    "nik": "3317102704770004",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-11-04"
+  },
+  {
+    "msisdn": "6289524484600",
+    "nik": "3317102704770004",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-12-19"
+  },
+  {
+    "msisdn": "6285211155565",
+    "nik": "1871020205810006",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-08-09"
+  },
+  {
+    "msisdn": "62895607040800",
+    "nik": "1871020205810006",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2020-01-03"
+  },
+  {
+    "msisdn": "6289630573165",
+    "nik": "1871020205810006",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2020-01-03"
+  },
+  {
+    "msisdn": "6285224240618",
+    "nik": "3209161804540003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-22"
+  },
+  {
+    "msisdn": "6281250806000",
+    "nik": "3271020503800009",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-18"
+  },
+  {
+    "msisdn": "6281291847170",
+    "nik": "3271020503800009",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-18"
+  },
+  {
+    "msisdn": "62816557726",
+    "nik": "3271020503800009",
+    "provider": "INDOSAT",
+    "reg_date": "2018-05-08"
+  },
+  {
+    "msisdn": "6281296478047",
+    "nik": "3171075607650001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-27"
+  },
+  {
+    "msisdn": "6282258781276",
+    "nik": "3171075607650001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-24"
+  },
+  {
+    "msisdn": "6285788038219",
+    "nik": "1801155907000004",
+    "provider": "INDOSAT",
+    "reg_date": "2019-04-17"
+  },
+  {
+    "msisdn": "6281211330890",
+    "nik": "3275021501800048",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-05-27"
+  },
+  {
+    "msisdn": "6281213721810",
+    "nik": "3275021501800048",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-07-20"
+  },
+  {
+    "msisdn": "6281213722087",
+    "nik": "3275021501800048",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-07-20"
+  },
+  {
+    "msisdn": "6281335491673",
+    "nik": "1801052005690001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-05-25"
+  },
+  {
+    "msisdn": "6281540804276",
+    "nik": "1801052005690001",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-29"
+  },
+  {
+    "msisdn": "6285380404149",
+    "nik": "1801052005690001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-01-29"
+  },
+  {
+    "msisdn": "62817823088",
+    "nik": "3275021501800048",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-03-30"
+  },
+  {
+    "msisdn": "62818141892",
+    "nik": "3275021501800048",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-01"
+  },
+  {
+    "msisdn": "08111988801",
+    "nik": "3275021501800048",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281213673236",
+    "nik": "3175090808800009",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-10-04"
+  },
+  {
+    "msisdn": "6281294902408",
+    "nik": "3175090808800009",
+    "provider": "TELKOMSEL",
+    "reg_date": "2020-01-30"
+  },
+  {
+    "msisdn": "6281382953198",
+    "nik": "3175090808800009",
+    "provider": "TELKOMSEL",
+    "reg_date": "2017-06-01"
+  },
+  {
+    "msisdn": "6281806325634",
+    "nik": "3175090808800009",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-01-15"
+  },
+  {
+    "msisdn": "6285799873709",
+    "nik": "3175090808800009",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-06"
+  },
+  {
+    "msisdn": "6285928010696",
+    "nik": "3175090808800009",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-04"
+  },
+  {
+    "msisdn": "6287786228619",
+    "nik": "3175090808800009",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-15"
+  },
+  {
+    "msisdn": "62881025404790",
+    "nik": "3175090808800009",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-06-09"
+  },
+  {
+    "msisdn": "6288210637431",
+    "nik": "3175090808800009",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-06-10"
+  },
+  {
+    "msisdn": "6288210637756",
+    "nik": "3175090808800009",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-06-10"
+  },
+  {
+    "msisdn": "62895385281048",
+    "nik": "3175090808800009",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-09-16"
+  },
+  {
+    "msisdn": "6289601281274",
+    "nik": "3175090808800009",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-04-20"
+  },
+  {
+    "msisdn": "6289655257316",
+    "nik": "3175090808800009",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-05-31"
+  },
+  {
+    "msisdn": "6281380265577",
+    "nik": "3271021712720016",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-26"
+  },
+  {
+    "msisdn": "6281510700000",
+    "nik": "3271021712720016",
+    "provider": "INDOSAT",
+    "reg_date": "2019-10-14"
+  },
+  {
+    "msisdn": "6281375868650",
+    "nik": "1101162801770002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-17"
+  },
+  {
+    "msisdn": "6282165106249",
+    "nik": "1101162801770002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-05-23"
+  },
+  {
+    "msisdn": "6287818689462",
+    "nik": "1101162801770002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-23"
+  },
+  {
+    "msisdn": "6287818689464",
+    "nik": "1101162801770002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-23"
+  },
+  {
+    "msisdn": "6282370165067",
+    "nik": "1101164205920005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-03-31"
+  },
+  {
+    "msisdn": "62895401498881",
+    "nik": "3273200608740002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-28"
+  },
+  {
+    "msisdn": "6281360355290",
+    "nik": "1106210807700001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-26"
+  },
+  {
+    "msisdn": "6282243645824",
+    "nik": "1106210807700001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2017-06-01"
+  },
+  {
+    "msisdn": "6285270836972",
+    "nik": "1106210807700001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-11-11"
+  },
+  {
+    "msisdn": "6282216107445",
+    "nik": "3215091607890003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-07-09"
+  },
+  {
+    "msisdn": "6282216107485",
+    "nik": "3215091607890003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-07-09"
+  },
+  {
+    "msisdn": "6282216107579",
+    "nik": "3215091607890003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-07-09"
+  },
+  {
+    "msisdn": "628567772466",
+    "nik": "3215091607890003",
+    "provider": "INDOSAT",
+    "reg_date": "2017-11-12"
+  },
+  {
+    "msisdn": "6282186400561",
+    "nik": "1404170311000001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-03-29"
+  },
+  {
+    "msisdn": "6285710073843",
+    "nik": "1404170311000001",
+    "provider": "INDOSAT",
+    "reg_date": "2019-12-31"
+  },
+  {
+    "msisdn": "62895368524399",
+    "nik": "1404170311000001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2017-06-01"
+  },
+  {
+    "msisdn": "628127346193",
+    "nik": "1801052005690001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-03"
+  },
+  {
+    "msisdn": "6289605257411",
+    "nik": "3215091607890003",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2017-11-12"
+  },
+  {
+    "msisdn": "6281232575095",
+    "nik": "3507172906890003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-03-24"
+  },
+  {
+    "msisdn": "6282230184101",
+    "nik": "3507172906890003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-05-29"
+  },
+  {
+    "msisdn": "6283163001276",
+    "nik": "3507172906890003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-12"
+  },
+  {
+    "msisdn": "6283848508988",
+    "nik": "3507172906890003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-26"
+  },
+  {
+    "msisdn": "6285238729405",
+    "nik": "3507172906890003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-10-18"
+  },
+  {
+    "msisdn": "6285333988246",
+    "nik": "3507172906890003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-10-01"
+  },
+  {
+    "msisdn": "6285642441958",
+    "nik": "3507172906890003",
+    "provider": "INDOSAT",
+    "reg_date": "2019-08-13"
+  },
+  {
+    "msisdn": "62859180649138",
+    "nik": "3507172906890003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-04-20"
+  },
+  {
+    "msisdn": "6287702175052",
+    "nik": "3507172906890003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-10-30"
+  },
+  {
+    "msisdn": "6287761291987",
+    "nik": "3507172906890003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-09-26"
+  },
+  {
+    "msisdn": "6289601288370",
+    "nik": "3507172906890003",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-07-20"
+  },
+  {
+    "msisdn": "6281343469819",
+    "nik": "5314011708890001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-03-31"
+  },
+  {
+    "msisdn": "6285737487553",
+    "nik": "5314011708890001",
+    "provider": "INDOSAT",
+    "reg_date": "2019-01-05"
+  },
+  {
+    "msisdn": "6285847853616",
+    "nik": "5314011708890001",
+    "provider": "INDOSAT",
+    "reg_date": "2019-07-03"
+  },
+  {
+    "msisdn": "6285950406617",
+    "nik": "5314011708890001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-06-01"
+  },
+  {
+    "msisdn": "6281997400323",
+    "nik": "3171065603821001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2020-01-06"
+  },
+  {
+    "msisdn": "6281997400360",
+    "nik": "3171065603821001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2020-01-06"
+  },
+  {
+    "msisdn": "6281359583787",
+    "nik": "9103015408840002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-09-29"
+  },
+  {
+    "msisdn": "6282189177751",
+    "nik": "9103015408840002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-26"
+  },
+  {
+    "msisdn": "6285796765676",
+    "nik": "9103015408840002",
+    "provider": "INDOSAT",
+    "reg_date": "2018-02-23"
+  },
+  {
+    "msisdn": "6281212999034",
+    "nik": "3276056006920003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-08-07"
+  },
+  {
+    "msisdn": "6281384311373",
+    "nik": "3276056006920003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-08-14"
+  },
+  {
+    "msisdn": "6281809581411",
+    "nik": "3276056006920003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-07-31"
+  },
+  {
+    "msisdn": "6281299205420",
+    "nik": "3174070110620004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-11-27"
+  },
+  {
+    "msisdn": "6281339692359",
+    "nik": "5105035901050004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-09-15"
+  },
+  {
+    "msisdn": "6281916266111",
+    "nik": "5105035901050004",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-12-12"
+  },
+  {
+    "msisdn": "6282145550892",
+    "nik": "5105035901050004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-18"
+  },
+  {
+    "msisdn": "6285792452944",
+    "nik": "5105035901050004",
+    "provider": "INDOSAT",
+    "reg_date": "2019-02-17"
+  },
+  {
+    "msisdn": "6285858414816",
+    "nik": "5105035901050004",
+    "provider": "INDOSAT",
+    "reg_date": "2018-11-19"
+  },
+  {
+    "msisdn": "6281236879068",
+    "nik": "3321045310530001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-05-31"
+  },
+  {
+    "msisdn": "6281549640293",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-18"
+  },
+  {
+    "msisdn": "6281549640294",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-18"
+  },
+  {
+    "msisdn": "6281549640295",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-18"
+  },
+  {
+    "msisdn": "6281549640296",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-18"
+  },
+  {
+    "msisdn": "6281549640297",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-18"
+  },
+  {
+    "msisdn": "6281805326406",
+    "nik": "3321045310530001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-01-31"
+  },
+  {
+    "msisdn": "6281907315946",
+    "nik": "3321045310530001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-07-23"
+  },
+  {
+    "msisdn": "6281937050730",
+    "nik": "3321045310530001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-01-26"
+  },
+  {
+    "msisdn": "6281998998617",
+    "nik": "3321045310530001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-03-29"
+  },
+  {
+    "msisdn": "6282146481677",
+    "nik": "3321045310530001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-25"
+  },
+  {
+    "msisdn": "6282340934925",
+    "nik": "3321045310530001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-01-27"
+  },
+  {
+    "msisdn": "6285696765797",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-20"
+  },
+  {
+    "msisdn": "6285730427039",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-26"
+  },
+  {
+    "msisdn": "6285730464436",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-26"
+  },
+  {
+    "msisdn": "6285792104359",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2017-11-23"
+  },
+  {
+    "msisdn": "6285792104364",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2017-11-23"
+  },
+  {
+    "msisdn": "6285792104367",
+    "nik": "3321045310530001",
+    "provider": "INDOSAT",
+    "reg_date": "2017-11-23"
+  },
+  {
+    "msisdn": "6287730184678",
+    "nik": "3321045310530001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-03"
+  },
+  {
+    "msisdn": "6287752547521",
+    "nik": "3321045310530001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-06-13"
+  },
+  {
+    "msisdn": "6287826296750",
+    "nik": "3321045310530001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-04-30"
+  },
+  {
+    "msisdn": "62895392858671",
+    "nik": "3321045310530001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-04-30"
+  },
+  {
+    "msisdn": "62895803943355",
+    "nik": "3321045310530001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-09-03"
+  },
+  {
+    "msisdn": "6281224932730",
+    "nik": "3275054602930013",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-06-09"
+  },
+  {
+    "msisdn": "6281287430513",
+    "nik": "3275054602930013",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-13"
+  },
+  {
+    "msisdn": "6281356850720",
+    "nik": "3275054602930013",
+    "provider": "TELKOMSEL",
+    "reg_date": "2020-01-26"
+  },
+  {
+    "msisdn": "6281356850729",
+    "nik": "3275054602930013",
+    "provider": "TELKOMSEL",
+    "reg_date": "2020-01-26"
+  },
+  {
+    "msisdn": "6281543175182",
+    "nik": "3275054602930013",
+    "provider": "INDOSAT",
+    "reg_date": "2019-11-29"
+  },
+  {
+    "msisdn": "6281283634960",
+    "nik": "3276102401680003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-28"
+  },
+  {
+    "msisdn": "6281543175184",
+    "nik": "3275054602930013",
+    "provider": "INDOSAT",
+    "reg_date": "2019-11-29"
+  },
+  {
+    "msisdn": "6282123284065",
+    "nik": "3276102401680003",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-02-01"
+  },
+  {
+    "msisdn": "6288211757978",
+    "nik": "3276102401680003",
+    "provider": "SMARTFREN",
+    "reg_date": "2018-05-10"
+  },
+  {
+    "msisdn": "6288211975097",
+    "nik": "3276102401680003",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-06-26"
+  },
+  {
+    "msisdn": "6288212740821",
+    "nik": "3276102401680003",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-08-14"
+  },
+  {
+    "msisdn": "628888538038",
+    "nik": "3276102401680003",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-12-11"
+  },
+  {
+    "msisdn": "6288901664021",
+    "nik": "3276102401680003",
+    "provider": "SMARTFREN",
+    "reg_date": "2018-07-07"
+  },
+  {
+    "msisdn": "6288901664022",
+    "nik": "3276102401680003",
+    "provider": "SMARTFREN",
+    "reg_date": "2018-07-07"
+  },
+  {
+    "msisdn": "6288901664023",
+    "nik": "3276102401680003",
+    "provider": "SMARTFREN",
+    "reg_date": "2018-07-07"
+  },
+  {
+    "msisdn": "6282114065682",
+    "nik": "3275054602930013",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-26"
+  },
+  {
+    "msisdn": "6282123987486",
+    "nik": "3275054602930013",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-09-05"
+  },
+  {
+    "msisdn": "6282328430147",
+    "nik": "3376035706810006",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-05-02"
+  },
+  {
+    "msisdn": "62895376511589",
+    "nik": "3376035706810006",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-04"
+  },
+  {
+    "msisdn": "6281376049276",
+    "nik": "1207280109820002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-11-09"
+  },
+  {
+    "msisdn": "6282152657672",
+    "nik": "1207280109820002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-12-20"
+  },
+  {
+    "msisdn": "6283198163820",
+    "nik": "1207280109820002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-25"
+  },
+  {
+    "msisdn": "6285246073544",
+    "nik": "1207280109820002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-03"
+  },
+  {
+    "msisdn": "6285261663323",
+    "nik": "1207280109820002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-10-17"
+  },
+  {
+    "msisdn": "6282124652015",
+    "nik": "3275054602930013",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-09-27"
+  },
+  {
+    "msisdn": "6285214867582",
+    "nik": "3275054602930013",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-08-01"
+  },
+  {
+    "msisdn": "6285696928414",
+    "nik": "3275054602930013",
+    "provider": "INDOSAT",
+    "reg_date": "2019-11-29"
+  },
+  {
+    "msisdn": "6285921582155",
+    "nik": "3275054602930013",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-06-12"
+  },
+  {
+    "msisdn": "628881737250",
+    "nik": "3671066308030003",
+    "provider": "SMARTFREN",
+    "reg_date": "2017-11-04"
+  },
+  {
+    "msisdn": "6281295393161",
+    "nik": "3275057011740009",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-22"
+  },
+  {
+    "msisdn": "6281543175166",
+    "nik": "3275057011740009",
+    "provider": "INDOSAT",
+    "reg_date": "2019-11-29"
+  },
+  {
+    "msisdn": "6281543175184",
+    "nik": "3275057011740009",
+    "provider": "INDOSAT",
+    "reg_date": "2019-11-29"
+  },
+  {
+    "msisdn": "6285696928348",
+    "nik": "3275057011740009",
+    "provider": "INDOSAT",
+    "reg_date": "2019-11-29"
+  },
+  {
+    "msisdn": "6288295825414",
+    "nik": "3275057011740009",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-10-09"
+  },
+  {
+    "msisdn": "62895366947191",
+    "nik": "3275057011740009",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-02-13"
+  },
+  {
+    "msisdn": "6287876132331",
+    "nik": "3275054602930013",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-01-03"
+  },
+  {
+    "msisdn": "628817253406",
+    "nik": "3275054602930013",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-10-10"
+  },
+  {
+    "msisdn": "6288212671056",
+    "nik": "3275054602930013",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-10-10"
+  },
+  {
+    "msisdn": "6288808901910",
+    "nik": "3275054602930013",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-10-10"
+  },
+  {
+    "msisdn": "6281245385130",
+    "nik": "9208025808650000",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-12-04"
+  },
+  {
+    "msisdn": "6281354278199",
+    "nik": "9208025808650000",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-07-11"
+  },
+  {
+    "msisdn": "628123882882",
+    "nik": "7371072403840001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-09"
+  },
+  {
+    "msisdn": "6281354333494",
+    "nik": "7371072403840001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-25"
+  },
+  {
+    "msisdn": "6281615652638",
+    "nik": "7371072403840001",
+    "provider": "INDOSAT",
+    "reg_date": "2017-11-18"
+  },
+  {
+    "msisdn": "6281903894288",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-06-06"
+  },
+  {
+    "msisdn": "6281943204200",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2020-01-30"
+  },
+  {
+    "msisdn": "6282243176876",
+    "nik": "7371072403840001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-02-15"
+  },
+  {
+    "msisdn": "6282291259608",
+    "nik": "7371072403840001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2020-01-22"
+  },
+  {
+    "msisdn": "6283123522121",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-07-17"
+  },
+  {
+    "msisdn": "6283138179633",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-07-17"
+  },
+  {
+    "msisdn": "6285242920351",
+    "nik": "7371072403840001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-01-21"
+  },
+  {
+    "msisdn": "6285288885738",
+    "nik": "7371072403840001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-26"
+  },
+  {
+    "msisdn": "6285655139205",
+    "nik": "7371072403840001",
+    "provider": "INDOSAT",
+    "reg_date": "2019-01-20"
+  },
+  {
+    "msisdn": "6285780393466",
+    "nik": "7371072403840001",
+    "provider": "INDOSAT",
+    "reg_date": "2019-06-17"
+  },
+  {
+    "msisdn": "6285894529748",
+    "nik": "7371072403840001",
+    "provider": "INDOSAT",
+    "reg_date": "2020-01-23"
+  },
+  {
+    "msisdn": "6285894529774",
+    "nik": "7371072403840001",
+    "provider": "INDOSAT",
+    "reg_date": "2020-01-23"
+  },
+  {
+    "msisdn": "6287726915022",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-03"
+  },
+  {
+    "msisdn": "6287726915176",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-04-25"
+  },
+  {
+    "msisdn": "6287765307164",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-07-18"
+  },
+  {
+    "msisdn": "6287810024592",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-10"
+  },
+  {
+    "msisdn": "6287811249590",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-03-18"
+  },
+  {
+    "msisdn": "6287850012492",
+    "nik": "7371072403840001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-06-17"
+  },
+  {
+    "msisdn": "62895637655370",
+    "nik": "7371072403840001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-06-24"
+  },
+  {
+    "msisdn": "62895803164171",
+    "nik": "7371072403840001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-07-04"
+  },
+  {
+    "msisdn": "6289601531286",
+    "nik": "7371072403840001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-02"
+  },
+  {
+    "msisdn": "6289671788780",
+    "nik": "7371072403840001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-07-23"
+  },
+  {
+    "msisdn": "6289671788781",
+    "nik": "7371072403840001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-07-23"
+  },
+  {
+    "msisdn": "6281337286009",
+    "nik": "5104070202710001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-12"
+  },
+  {
+    "msisdn": "6285237154997",
+    "nik": "5104070202710001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-09"
+  },
+  {
+    "msisdn": "6281340346296",
+    "nik": "3174061201660005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-10"
+  },
+  {
+    "msisdn": "6281219134082",
+    "nik": "3216062707900011",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-08-01"
+  },
+  {
+    "msisdn": "6281292735455",
+    "nik": "3216062707900011",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-22"
+  },
+  {
+    "msisdn": "6281990535431",
+    "nik": "3216062707900011",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-06-10"
+  },
+  {
+    "msisdn": "6282122567484",
+    "nik": "3216062707900011",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-08-17"
+  },
+  {
+    "msisdn": "6285939488650",
+    "nik": "3216062707900011",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-07-07"
+  },
+  {
+    "msisdn": "6287744645142",
+    "nik": "3216062707900011",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-10-16"
+  },
+  {
+    "msisdn": "6287878480343",
+    "nik": "3216062707900011",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-07-18"
+  },
+  {
+    "msisdn": "6287882544484",
+    "nik": "3216062707900011",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-04-28"
+  },
+  {
+    "msisdn": "6287883340800",
+    "nik": "3216062707900011",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-09-10"
+  },
+  {
+    "msisdn": "6287884386251",
+    "nik": "3216062707900011",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-01-10"
+  },
+  {
+    "msisdn": "6287889562995",
+    "nik": "3216062707900011",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-08-24"
+  },
+  {
+    "msisdn": "6287894440589",
+    "nik": "3216062707900011",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-08-01"
+  },
+  {
+    "msisdn": "6282116754814",
+    "nik": "1971057108940002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2020-01-30"
+  },
+  {
+    "msisdn": "6282184009199",
+    "nik": "1971057108940002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-03-08"
+  },
+  {
+    "msisdn": "6287875850894",
+    "nik": "3604181908840002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-01"
+  },
+  {
+    "msisdn": "6281217355173",
+    "nik": "3510071903610002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-01-12"
+  },
+  {
+    "msisdn": "6281231239260",
+    "nik": "3510071903610002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-01-12"
+  },
+  {
+    "msisdn": "6282334518835",
+    "nik": "3510071903610002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-01-15"
+  },
+  {
+    "msisdn": "6282340564873",
+    "nik": "3510071903610002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-07-10"
+  },
+  {
+    "msisdn": "6285234968271",
+    "nik": "3510071903610002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-24"
+  },
+  {
+    "msisdn": "6281294270554",
+    "nik": "5205051205930005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-24"
+  },
+  {
+    "msisdn": "6287770465622",
+    "nik": "5205051205930005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-15"
+  },
+  {
+    "msisdn": "6287785627267",
+    "nik": "5205051205930005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-09-06"
+  },
+  {
+    "msisdn": "6282161416953",
+    "nik": "1101021804080002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-10"
+  },
+  {
+    "msisdn": "6285277943002",
+    "nik": "1105017006930004",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-24"
+  },
+  {
+    "msisdn": "6289610054127",
+    "nik": "1105017006930004",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-04-26"
+  },
+  {
+    "msisdn": "6282273499307",
+    "nik": "1101021804080002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-09"
+  },
+  {
+    "msisdn": "6281388005609",
+    "nik": "3403166305690001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-05-17"
+  },
+  {
+    "msisdn": "6283142034053",
+    "nik": "6303042512750003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-10"
+  },
+  {
+    "msisdn": "6283142034132",
+    "nik": "6303042512750003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-29"
+  },
+  {
+    "msisdn": "6283192339490",
+    "nik": "6303042512750003",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2020-01-16"
+  },
+  {
+    "msisdn": "6282320242423",
+    "nik": "3205393006930002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-12-21"
+  },
+  {
+    "msisdn": "6282320821873",
+    "nik": "3205393006930002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-29"
+  },
+  {
+    "msisdn": "6282320821874",
+    "nik": "3205393006930002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-29"
+  },
+  {
+    "msisdn": "6285314175212",
+    "nik": "3205393006930002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-13"
+  },
+  {
+    "msisdn": "6285798849664",
+    "nik": "3205393006930002",
+    "provider": "INDOSAT",
+    "reg_date": "2019-05-10"
+  },
+  {
+    "msisdn": "6285798849667",
+    "nik": "3205393006930002",
+    "provider": "INDOSAT",
+    "reg_date": "2019-05-10"
+  },
+  {
+    "msisdn": "6287724067426",
+    "nik": "3205393006930002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-05-14"
+  },
+  {
+    "msisdn": "6287767539061",
+    "nik": "3205393006930002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-05-12"
+  },
+  {
+    "msisdn": "6288218715175",
+    "nik": "3205393006930002",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-07-19"
+  },
+  {
+    "msisdn": "6288218715176",
+    "nik": "3205393006930002",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-07-19"
+  },
+  {
+    "msisdn": "6288218715178",
+    "nik": "3205393006930002",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-07-19"
+  },
+  {
+    "msisdn": "62895800579309",
+    "nik": "3205393006930002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-10-15"
+  },
+  {
+    "msisdn": "6289618081618",
+    "nik": "3205393006930002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-04-13"
+  },
+  {
+    "msisdn": "628990720220",
+    "nik": "3205393006930002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-10-06"
+  },
+  {
+    "msisdn": "6281905284651",
+    "nik": "1872011604810008",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-29"
+  },
+  {
+    "msisdn": "6282374985287",
+    "nik": "1872011604810008",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-06-28"
+  },
+  {
+    "msisdn": "082115015188",
+    "nik": "/reg",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "082278195887",
+    "nik": "/reg",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "081347654422",
+    "nik": "/reg",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "081260725092",
+    "nik": "/reg",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281265127007",
+    "nik": "1274015606770002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-28"
+  },
+  {
+    "msisdn": "6282213762341",
+    "nik": "3276025006660005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-08-09"
+  },
+  {
+    "msisdn": "6281218515990",
+    "nik": "3173042010740002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-26"
+  },
+  {
+    "msisdn": "6281218516069",
+    "nik": "3173042010740002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-04-25"
+  },
+  {
+    "msisdn": "6281574322474",
+    "nik": "3173042010740002",
+    "provider": "INDOSAT",
+    "reg_date": "2020-01-09"
+  },
+  {
+    "msisdn": "6281574322476",
+    "nik": "3173042010740002",
+    "provider": "INDOSAT",
+    "reg_date": "2020-01-09"
+  },
+  {
+    "msisdn": "628159812698",
+    "nik": "3173042010740002",
+    "provider": "INDOSAT",
+    "reg_date": "2020-01-08"
+  },
+  {
+    "msisdn": "628159812718",
+    "nik": "3173042010740002",
+    "provider": "INDOSAT",
+    "reg_date": "2020-01-09"
+  },
+  {
+    "msisdn": "628159812809",
+    "nik": "3173042010740002",
+    "provider": "INDOSAT",
+    "reg_date": "2020-01-09"
+  },
+  {
+    "msisdn": "6283873767137",
+    "nik": "3173042010740002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-04-05"
+  },
+  {
+    "msisdn": "6285811198757",
+    "nik": "3173042010740002",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-24"
+  },
+  {
+    "msisdn": "6285814428194",
+    "nik": "3173042010740002",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-29"
+  },
+  {
+    "msisdn": "6287878870420",
+    "nik": "3173042010740002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-10"
+  },
+  {
+    "msisdn": "6287883820949",
+    "nik": "3173042010740002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2017-11-14"
+  },
+  {
+    "msisdn": "6287889895094",
+    "nik": "3173042010740002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2017-12-03"
+  },
+  {
+    "msisdn": "62895630396965",
+    "nik": "3173042010740002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-04-25"
+  },
+  {
+    "msisdn": "6289627570509",
+    "nik": "3173042010740002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-08-10"
+  },
+  {
+    "msisdn": "6283160179299",
+    "nik": "1872011604810008",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-09-25"
+  },
+  {
+    "msisdn": "6281360468237",
+    "nik": "1101021804080002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-11"
+  },
+  {
+    "msisdn": "6281360468241",
+    "nik": "1101021804080002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-06-10"
+  },
+  {
+    "msisdn": "6283170217092",
+    "nik": "1872011604810008",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-08-23"
+  },
+  {
+    "msisdn": "6285384315151",
+    "nik": "1872011604810008",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-24"
+  },
+  {
+    "msisdn": "6287876674001",
+    "nik": "1872011604810008",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-09-25"
+  },
+  {
+    "msisdn": "6287891194252",
+    "nik": "1872011604810008",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-09-02"
+  },
+  {
+    "msisdn": "6289631446131",
+    "nik": "1872011604810008",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2017-10-26"
+  },
+  {
+    "msisdn": "6281378078127",
+    "nik": "1671076612090005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-10-28"
+  },
+  {
+    "msisdn": "6281947561806",
+    "nik": "1671076612090005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-07-20"
+  },
+  {
+    "msisdn": "6281999361785",
+    "nik": "1671076612090005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-08-07"
+  },
+  {
+    "msisdn": "6285279073426",
+    "nik": "1671076612090005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-10-29"
+  },
+  {
+    "msisdn": "6285279073482",
+    "nik": "1671076612090005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-10-29"
+  },
+  {
+    "msisdn": "6287711806748",
+    "nik": "1671076612090005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-07-04"
+  },
+  {
+    "msisdn": "6287777060851",
+    "nik": "1671076612090005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-09-07"
+  },
+  {
+    "msisdn": "6287787051997",
+    "nik": "1671076612090005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-10-06"
+  },
+  {
+    "msisdn": "6287794897910",
+    "nik": "1671076612090005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-28"
+  },
+  {
+    "msisdn": "6287877825224",
+    "nik": "1671076612090005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-04-02"
+  },
+  {
+    "msisdn": "6287884593671",
+    "nik": "1671076612090005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-06-13"
+  },
+  {
+    "msisdn": "6287895945181",
+    "nik": "1671076612090005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-10-30"
+  },
+  {
+    "msisdn": "6289694215669",
+    "nik": "6471020204040001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-04-30"
+  },
+  {
+    "msisdn": "628118776685",
+    "nik": "3175071512790012",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281264717402",
+    "nik": "1274055105800005",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6285215341332",
+    "nik": "3404061010640004",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281337540407",
+    "nik": "3674020504890002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-07-14"
+  },
+  {
+    "msisdn": "6282247211603",
+    "nik": "3674020504890002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-01-31"
+  },
+  {
+    "msisdn": "6281381838121",
+    "nik": "3674020504890002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-25"
+  },
+  {
+    "msisdn": "6287861829080",
+    "nik": "3674020504890002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-07-09"
+  },
+  {
+    "msisdn": "6287776162909",
+    "nik": "3201305705740001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-10-31"
+  },
+  {
+    "msisdn": "6285274616335",
+    "nik": "1371035504050001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-24"
+  },
+  {
+    "msisdn": "6285668772369",
+    "nik": "1371035504050001",
+    "provider": "INDOSAT",
+    "reg_date": "2019-07-04"
+  },
+  {
+    "msisdn": "6289656537547",
+    "nik": "3204462010940002",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281514840195",
+    "nik": "3273106105950004",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281221713322",
+    "nik": "1571076007860162",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281349366359",
+    "nik": "3215085011950005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-08-13"
+  },
+  {
+    "msisdn": "6281349366402",
+    "nik": "3215085011950005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-08-13"
+  },
+  {
+    "msisdn": "6281349366420",
+    "nik": "3215085011950005",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-08-13"
+  },
+  {
+    "msisdn": "6283151353231",
+    "nik": "3215085011950005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-09-02"
+  },
+  {
+    "msisdn": "6283815578268",
+    "nik": "3215085011950005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-03-29"
+  },
+  {
+    "msisdn": "6285714440573",
+    "nik": "3215085011950005",
+    "provider": "INDOSAT",
+    "reg_date": "2018-10-11"
+  },
+  {
+    "msisdn": "6285959374981",
+    "nik": "3215085011950005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-10-11"
+  },
+  {
+    "msisdn": "6287785149016",
+    "nik": "3215085011950005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-06-24"
+  },
+  {
+    "msisdn": "6287878467752",
+    "nik": "3215085011950005",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-08-20"
+  },
+  {
+    "msisdn": "6282123133140",
+    "nik": "3673014101910026",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281372174215",
+    "nik": "1371011909730001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2017-11-16"
+  },
+  {
+    "msisdn": "6281235770382",
+    "nik": "6402060210930001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-04"
+  },
+  {
+    "msisdn": "6281240821079",
+    "nik": "6402060210930001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2017-06-01"
+  },
+  {
+    "msisdn": "6281936257028",
+    "nik": "6402060210930001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-02-10"
+  },
+  {
+    "msisdn": "6282351030918",
+    "nik": "6402060210930001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-09-12"
+  },
+  {
+    "msisdn": "6282351030923",
+    "nik": "6402060210930001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-09-12"
+  },
+  {
+    "msisdn": "6283152111406",
+    "nik": "6402060210930001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-10-27"
+  },
+  {
+    "msisdn": "6283152111420",
+    "nik": "6402060210930001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-10-27"
+  },
+  {
+    "msisdn": "6285903779496",
+    "nik": "6402060210930001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-08-09"
+  },
+  {
+    "msisdn": "6287854212153",
+    "nik": "6402060210930001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-08-20"
+  },
+  {
+    "msisdn": "6282158423007",
+    "nik": "6402032806960002",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "628111701409",
+    "nik": "3174064907880002",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6283801968574",
+    "nik": "1371035703730007",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-09-06"
+  },
+  {
+    "msisdn": "6285265486181",
+    "nik": "1371035703730007",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-22"
+  },
+  {
+    "msisdn": "6287722504148",
+    "nik": "1275011406880007",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6283133288322",
+    "nik": "3601134403000002",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6287739751919",
+    "nik": "3209137009730008",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "62817181811",
+    "nik": "7571021811750001",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281349366358",
+    "nik": "3215080705660001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-08-13"
+  },
+  {
+    "msisdn": "6281349366396",
+    "nik": "3215080705660001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-08-13"
+  },
+  {
+    "msisdn": "6281349366419",
+    "nik": "3215080705660001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-08-13"
+  },
+  {
+    "msisdn": "6283149202388",
+    "nik": "3215080705660001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-09-23"
+  },
+  {
+    "msisdn": "6285900014638",
+    "nik": "3215080705660001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-08-23"
+  },
+  {
+    "msisdn": "6285972705566",
+    "nik": "3215080705660001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-12-12"
+  },
+  {
+    "msisdn": "6287881418504",
+    "nik": "3215080705660001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-08-20"
+  },
+  {
+    "msisdn": "6281311842716",
+    "nik": "3215085010000007",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-05-30"
+  },
+  {
+    "msisdn": "6285609366111",
+    "nik": "3215085010000007",
+    "provider": "INDOSAT",
+    "reg_date": "2019-12-02"
+  },
+  {
+    "msisdn": "6288975527051",
+    "nik": "3215085010000007",
+    "provider": "SMARTFREN",
+    "reg_date": "2019-05-04"
+  },
+  {
+    "msisdn": "6281260743660",
+    "nik": "1271202112990001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-21"
+  },
+  {
+    "msisdn": "6285362902081",
+    "nik": "1101021807730001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-25"
+  },
+  {
+    "msisdn": "6281396029898",
+    "nik": "1271202011960004",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281393900666",
+    "nik": "3310262605670001",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "628973175176",
+    "nik": "3674034710970002",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6285930350138",
+    "nik": "3175075307940005",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6289653482393",
+    "nik": "1271202112990001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2017-10-31"
+  },
+  {
+    "msisdn": "628976283694",
+    "nik": "3329161005770009",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-03"
+  },
+  {
+    "msisdn": "6285712410199",
+    "nik": "3329162106080004",
+    "provider": "INDOSAT",
+    "reg_date": null
+  },
+  {
+    "msisdn": "6283844141502",
+    "nik": "3275022512910015",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-08-11"
+  },
+  {
+    "msisdn": "6288291337709",
+    "nik": "3275022512910015",
+    "provider": "SMARTFREN",
+    "reg_date": "2018-12-10"
+  },
+  {
+    "msisdn": "6289618249233",
+    "nik": "3275022512910015",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-05-09"
+  },
+  {
+    "msisdn": "6289618545616",
+    "nik": "3275022512910015",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-05-09"
+  },
+  {
+    "msisdn": "6289659209024",
+    "nik": "3275022512910015",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-02"
+  },
+  {
+    "msisdn": "089696737376",
+    "nik": "3275022512910015",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6285311292054",
+    "nik": "3603110107880008",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-05-02"
+  },
+  {
+    "msisdn": "62895396241951",
+    "nik": "3603110107880008",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-12-31"
+  },
+  {
+    "msisdn": "082115015188",
+    "nik": "/REG",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "082278195887",
+    "nik": "/REG",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "081347654422",
+    "nik": "/REG",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "081260725092",
+    "nik": "/REG",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6282122909964",
+    "nik": "3603110107880008",
+    "provider": "TELKOMSEL",
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281284542075",
+    "nik": "3674034710970002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-07-14"
+  },
+  {
+    "msisdn": "6281413362527",
+    "nik": "3674034710970002",
+    "provider": "INDOSAT",
+    "reg_date": "2019-02-01"
+  },
+  {
+    "msisdn": "6282211484003",
+    "nik": "3674034710970002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-05-02"
+  },
+  {
+    "msisdn": "6282297232272",
+    "nik": "3674034710970002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-27"
+  },
+  {
+    "msisdn": "6285669663467",
+    "nik": "3674034710970002",
+    "provider": "INDOSAT",
+    "reg_date": "2018-04-28"
+  },
+  {
+    "msisdn": "6285692652810",
+    "nik": "3674034710970002",
+    "provider": "INDOSAT",
+    "reg_date": "2019-12-03"
+  },
+  {
+    "msisdn": "6285719294306",
+    "nik": "3674034710970002",
+    "provider": "INDOSAT",
+    "reg_date": "2018-10-26"
+  },
+  {
+    "msisdn": "6285720377181",
+    "nik": "3674034710970002",
+    "provider": "INDOSAT",
+    "reg_date": "2017-11-12"
+  },
+  {
+    "msisdn": "6285770729336",
+    "nik": "3674034710970002",
+    "provider": "INDOSAT",
+    "reg_date": "2017-11-12"
+  },
+  {
+    "msisdn": "6289654832569",
+    "nik": "3674034710970002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-11-25"
+  },
+  {
+    "msisdn": "6281211517465",
+    "nik": "3603114506170002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-06-08"
+  },
+  {
+    "msisdn": "6281212758054",
+    "nik": "3603114506170002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-06-10"
+  },
+  {
+    "msisdn": "6281384474387",
+    "nik": "3603114506170002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-06-08"
+  },
+  {
+    "msisdn": "6281384506041",
+    "nik": "3603114506170002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-06-15"
+  },
+  {
+    "msisdn": "6285693105672",
+    "nik": "3603114506170002",
+    "provider": "INDOSAT",
+    "reg_date": "2019-06-10"
+  },
+  {
+    "msisdn": "6285775015321",
+    "nik": "3603114506170002",
+    "provider": "INDOSAT",
+    "reg_date": "2019-06-13"
+  },
+  {
+    "msisdn": "6285975107820",
+    "nik": "3601210402710002",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6282264499010",
+    "nik": "1101022003950001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-11-04"
+  },
+  {
+    "msisdn": "6282361875855",
+    "nik": "1101022003950001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-24"
+  },
+  {
+    "msisdn": "6283164104802",
+    "nik": "1101022003950001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-12-10"
+  },
+  {
+    "msisdn": "6285362668330",
+    "nik": "1101022003950001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-03-29"
+  },
+  {
+    "msisdn": "6287803889743",
+    "nik": "1101022003950001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-11-03"
+  },
+  {
+    "msisdn": "62895600776981",
+    "nik": "1101022003950001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-04-16"
+  },
+  {
+    "msisdn": "62895611849403",
+    "nik": "1101022003950001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-12-20"
+  },
+  {
+    "msisdn": "62895629346462",
+    "nik": "1101022003950001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-05-31"
+  },
+  {
+    "msisdn": "082219622048",
+    "nik": "1101022003950001",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "62895611861201",
+    "nik": "1101022103000002",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-02-14"
+  },
+  {
+    "msisdn": "6282285003540",
+    "nik": "1101022103000002",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-04-05"
+  },
+  {
+    "msisdn": "6283193528941",
+    "nik": "1101022103000002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-12-18"
+  },
+  {
+    "msisdn": "6283800172211",
+    "nik": "1101022103000002",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-05-10"
+  },
+  {
+    "msisdn": "6281295754458",
+    "nik": "3603182901130007",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-11-18"
+  },
+  {
+    "msisdn": "6281295754459",
+    "nik": "3603182901130007",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-11-18"
+  },
+  {
+    "msisdn": "6281295754461",
+    "nik": "3603182901130007",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-11-18"
+  },
+  {
+    "msisdn": "6281315365349",
+    "nik": "3603182901130007",
+    "provider": "TELKOMSEL",
+    "reg_date": "2019-02-27"
+  },
+  {
+    "msisdn": "6281918862276",
+    "nik": "1101021909780001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-06-20"
+  },
+  {
+    "msisdn": "6282360608253",
+    "nik": "1101021909780001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-03-23"
+  },
+  {
+    "msisdn": "6283199253180",
+    "nik": "1101021909780001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-06-20"
+  },
+  {
+    "msisdn": "6285261382154",
+    "nik": "1101021909780001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-05-12"
+  },
+  {
+    "msisdn": "6281319785850",
+    "nik": "3329141205900008",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-26"
+  },
+  {
+    "msisdn": "6289604693141",
+    "nik": "3329141205900008",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2017-11-01"
+  },
+  {
+    "msisdn": "6289653024131",
+    "nik": "3329141205900008",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2017-10-15"
+  },
+  {
+    "msisdn": "6289685140241",
+    "nik": "3329141205900008",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-02-23"
+  },
+  {
+    "msisdn": "628989642715",
+    "nik": "3329141205900008",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2019-11-02"
+  },
+  {
+    "msisdn": "6282284210167",
+    "nik": "1101021808960001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-20"
+  },
+  {
+    "msisdn": "6285296504743",
+    "nik": "1101021808960001",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-03-01"
+  },
+  {
+    "msisdn": "6287825197487",
+    "nik": "1101021808960001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-11-27"
+  },
+  {
+    "msisdn": "6287891207429",
+    "nik": "1101021808960001",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2019-11-22"
+  },
+  {
+    "msisdn": "628975137939",
+    "nik": "1101021808960001",
+    "provider": "HUTCHISON_3",
+    "reg_date": "2018-06-05"
+  },
+  {
+    "msisdn": "6285121041481",
+    "nik": "3671010808800007",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6282246077688",
+    "nik": "3671010808800007",
+    "provider": "TELKOMSEL",
+    "reg_date": null
+  },
+  {
+    "msisdn": "6282246077688",
+    "nik": "1173024904060003",
+    "provider": "TELKOMSEL",
+    "reg_date": null
+  },
+  {
+    "msisdn": "6283894740022",
+    "nik": "9202120606850004",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "0",
+    "nik": "3671010808800007",
+    "provider": "TELKOMSEL",
+    "reg_date": "2018-02-28"
+  },
+  {
+    "msisdn": "6287726947476",
+    "nik": "3671010808800007",
+    "provider": "EXELCOMINDO",
+    "reg_date": "2018-03-05"
+  },
+  {
+    "msisdn": "62895376502929",
+    "nik": "3203050107660168",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281383980065",
+    "nik": "3174095311850001",
+    "provider": null,
+    "reg_date": null
+  },
+  {
+    "msisdn": "6281381102535",
+    "nik": "1403090505940002",
+    "provider": null,
+    "reg_date": null
+  }
+]
